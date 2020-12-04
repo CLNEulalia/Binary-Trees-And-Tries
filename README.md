@@ -16,6 +16,8 @@ Complete the activity as outlined below. When you are finished, submit an an iss
 - Implement a binary tree.
 
 ## Prerequisites: 
+* Big O Notation
+* Recursion
 * Linked Lists
 
 ## Activity
@@ -31,5 +33,10 @@ There are two components to this lesson, in the following order:
 1. Regardless of which way you choose, the exercises are the same (but the codepen has testing)
 
 ## Additional Resources
-- More from the 'Beau Teaches' series: JavaScript Binary Tree [implementation](https://www.youtube.com/watch?v=5cU1ILGy6dM)
-- Coding interview questions and practice problems on [binary trees](https://medium.com/@codingfreak/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f)
+* More from the 'Beau Teaches' series: JavaScript Binary Tree [implementation](https://www.youtube.com/watch?v=5cU1ILGy6dM)
+* Since we don't cover how to build a trie, read about how it's implemented in code [here](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/trie).
+* Check out these beautiful visualizations: [a binary tree](https://www.cs.usfca.edu/~galles/visualization/BST.html), [a trie](https://www.cs.usfca.edu/~galles/visualization/Trie.html), and [an AVL tree](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html).
+* How to distinguish between [several types of tree data structures](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/tree).
+* Common [interview questions about binary trees](https://medium.com/@codingfreak/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f).
+* Tree balancing interview prep: [here](https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/) and [here](https://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced).
+* [Whiteboarding an AVL tree](https://www.youtube.com/watch?v=rbg7Qf8GkQ4&).
