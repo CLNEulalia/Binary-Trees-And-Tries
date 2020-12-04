@@ -38,5 +38,4 @@ There are two components to this lesson, in the following order:
 * Check out these beautiful visualizations: [a binary tree](https://www.cs.usfca.edu/~galles/visualization/BST.html), [a trie](https://www.cs.usfca.edu/~galles/visualization/Trie.html), and [an AVL tree](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html).
 * How to distinguish between [several types of tree data structures](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/tree).
 * Common [interview questions about binary trees](https://medium.com/@codingfreak/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f).
-* Tree balancing interview prep: [here](https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/) and [here](https://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced).
-* [Whiteboarding an AVL tree](https://www.youtube.com/watch?v=rbg7Qf8GkQ4&).
+
